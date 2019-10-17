@@ -5,7 +5,8 @@
 }
 #body {
     background-size: cover;
-    height: 100%;
+    width: 100%;
+    height: auto;
     background: url("http://getwallpapers.com/wallpaper/full/e/0/2/203053.jpg");
     /* opacity: 0.7; */
 }
@@ -89,8 +90,8 @@ nav > ul > li > a:hover {
 .home > h1, h2, h3 {
     font-size: 40px;
 }
-#content > h2, h3 {
-    /* background-color: white; */
+/* #content > h2, h3 {
+    background-color: white; */
 }
 * {
     margin:1px 1px;
