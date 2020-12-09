@@ -105,7 +105,7 @@ nav > ul > li > a:hover {
     display:flex;
 }
 .contacts {
-    background: grey;
+    background: #B5B5B5;
 /*     background-repeat:no-repeat; */
     opacity:5.5;
     filter:alpha(opacity=50);
