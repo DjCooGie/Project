@@ -105,8 +105,8 @@ nav > ul > li > a:hover {
     display:flex;
 }
 .contacts {
-    background-image: url("http://getwallpapers.com/wallpaper/full/8/2/2/200314.jpg");
-    background-repeat:no-repeat;
+    background: grey;
+/*     background-repeat:no-repeat; */
     opacity:5.5;
     filter:alpha(opacity=50);
     color:rgb(189,199,105);
