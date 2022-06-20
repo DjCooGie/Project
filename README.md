@@ -3,4 +3,4 @@ My very first project
 
 #### License
 MIT
-&copy;2019 Evans Onchagwa
+&copy;2019 Evans ON
